@@ -52,9 +52,9 @@ site:
   template: article-theme
   actions:
     - title: poster
-      url: abstract/thumbnail.png
+      url: presentation/AGU2023_Jorge_eposter.pdf
       static: true
     - title: slides
       url: presentation/AGU2023_Jorge.pptx
-    #   static: true
+      static: true
   # domains: []
